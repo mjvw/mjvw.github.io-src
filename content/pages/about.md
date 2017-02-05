@@ -3,7 +3,7 @@ Date: 2016-02-22 21:10
 Modified: 2016-02-22 21:10
 Category: Pages
 Tags: about
-Slug: on-me-and-research
+Slug: about
 Authors: mjvw
 Summary: A blurb about me and my research
 
@@ -12,4 +12,4 @@ After my LL.M., I fell in love with academic research, writing and teaching and 
 
 Other areas of study and research are European Environmental Law and Gambling Regulation within the Member States vis-a-vis Regulation by the Union. However, music of all genres, culinary exploits, Islay single malts, watches and most importantly, shelves upon stacks upon piles of books are the non-legal things that keep me going. Please feel free to click on any of the links to see my life, c.v. or current research.
 - - -
-Although I don't have a wide online presence, having given up twitter and facebook. But feel free to contact me through [email](blog@fastmail.fm "email") or [linkedin](https://www.linkedin.com/in/matthijsvanwolferen/ "LinkedIn").
+Although I don't have a wide online presence, having given up twitter and facebook. But feel free to contact me through email (blog<at>fastmail.fm) or [linkedin](https://www.linkedin.com/in/matthijsvanwolferen/ "LinkedIn").

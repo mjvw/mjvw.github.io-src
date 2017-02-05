@@ -8,3 +8,6 @@ Authors: mjvw
 Summary: A blurb about my work
 
 # Publications
+
+* ["The limits to interpretation of _locus standi_ criteria, a theoretical framework"](http://bit.ly/LimitsToInterpretativeSpace "JCER") | Journal of Contemporary European Research (JCER) (4) 2016.
+
