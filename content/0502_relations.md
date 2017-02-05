@@ -23,14 +23,26 @@ The main question is now whether the CJEU is going to follow the same route as m
 
 ### Footnotes
 <a name="myfootnote1">1. </a> : Since the Fifth Republic, the government (in the form of the president) has largely supplanted the role of the parliament in this regard.
+
 <a name="myfootnote2">2. </a> : Famously, the father of English constitutional law A.V. Dicey was opposed to the notion of 'administrative law', although his views mellowed over the years.
+
 <a name="myfootnote3">3. </a> : Case 25/62 Plaumann & Co. v Commission [1963] EU:C:1963:17
+
 <a name="myfootnote4">4. </a> : Italics signify the additions made to the Article by the Lisbon Treaty.
+
 <a name="myfootnote5">5. </a> : There is a long body of cases where environmental NGO were denied standing as they could not be individually concerned. Although the Court's has never given any obiter indicating anything going beyond strict literal interpretation, the proceedings before the Aarhus Convention Compliance Committee (part of an environmental rights convention signed by the EU) have yielded interesting pieces of reasoning from all institutions. For the complete proceedings, see: <http://www.unece.org/env/pp/compliance/Compliancecommittee/32TableEC.html> 
+
 <a name="myfootnote6">6. </a> : The list would be too extensive to be of interest for this contribution, however please see for instance: Laurence W Gormley, ‘Judicial Review – a New Dawn after Lisbon?’, Europe. The New Legal Realism: Essays in Honour of Hjalte Rasmussen (2010) 191–203.
+
 <a name="myfootnote7">7. </a> : Famously A-G Jacobs in Case C-50/00P Unión de Pequeños Agricultores v Council [2002] EU:C:2002:197 (UPA)
+
 <a name="myfootnote8">8. </a> : As for instance has been stated in the case mentioned above, UPA.
+
 <a name="myfootnote9">9. </a> : Which might just be the Court's solution to the problem created by the Treaty text given its obiter in UPA that a different system could be possible, but that this was up to the Member States.
+
 <a name="myfootnote10">10. </a> : Jean-Claude Piris, The Lisbon Treaty: A Legal and Political Analysis (Cambridge University Press 2010) 92.
+
 <a name="myfootnote11">11. </a> : See the final report by Circle I: CONV 636/03. The main legal problem solved was the one made famous by the Jégo-Quéré case in which some applicants would have needed to break the law in order to get access to justice, see Case C-263/02 Commission v Jégo-Quéré & Cie SA [2004] EU:C:2004:210
+
 <a name="myfootnote12">12. </a> : Case C-583/11 P Inuit Tapiriit Kanatami and Others v Parliament and Council [2013] EU:C:2013:625
+
