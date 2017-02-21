@@ -17,7 +17,7 @@ Summary: A blurb defining my career
 |Date of Birth: |	November 4, 1983 |
 |E-mail: | m.j.van.wolferen@rug.nl |
 |Mobile: | +31644342120 |
-|Blog: | https://nl.linkedin.com/in/matthijsvanwolferen |
+|Blog: | https://mjvw.github.io/ |
 
 ## Publications
 | *Date* | *Title* | *Publication/issue* |
