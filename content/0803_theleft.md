@@ -1,4 +1,4 @@
-Title: Contribution to _Mails d'Europe_: 'What happened to the Dutch Left?'
+Title: Contribution to Mails d'Europe
 Date: 2017-03-08 11:19
 Modified: 2017-03-08 11:19
 Category: non-academic
@@ -22,7 +22,7 @@ That ended with [Pim Fortuyn](https://en.wikipedia.org/wiki/Pim_Fortuyn). A poli
 
 From 2001 onward, the traditional left-right divide started to fail as an analytical tool or even a useful form of expression. Yet, the system has never recovered from the idea that parties could exist outside of the _status quo_. In the wake of the rise and fall of the LPF, a number of contenders has risen, each with a mix of left-wing and right-wing policies. This is best exemplified by the successor of Pim Fortuyn, Geert Wilders and his Freedom Party (PVV). With an agenda filled with xenophobic screed and anti-elite policies, the well-spoken former liberal (a scion of former VVD parlementarian and EU Commissioner Bolkestein) torments both the liberal VVD, and the socialist SP and PvdA. These traditional parties are trying to adapt, incorporating stances heretofore unagreeable to them. The VVD becoming more repressive on law and order, the SP going back to its reactionary socialist roots, and the PvdA has yet to find a response. 
 
-![Political Spectrum](https://dl.dropboxusercontent.com/u/578082/Pictures/axis.jpg "An Axis created by quality newspaper _Trouw_ showing the fluidity of Dutch political parties")
+![Political Spectrum](https://dl.dropboxusercontent.com/u/578082/Pictures/axis.jpg "An Axis created by quality newspaper 'Trouw' showing the fluidity of Dutch political parties")
 
 ## So what has happened to 'The Left'? 
 The truth is that before Fortuyn the old system had led to the adoption of norms in all political parties that would be called 'Left Wing' in other countries. The large losses of the Socialist parties is largely due to the fact that they have not been able to find a new cause after most of their policies had been enacted by the 80's. Even the Christian Democrats advocate a highly organised welfare state, and with _ChristenUnie_ there is even a (moderate) progressive faction. When the old system of Left-Right politics worked, coalitions would be created along familiar lines, even though that sometimes appeared arbitrary. With the crash of that old system of politics, there is no logical flag to rally round for opposition to Wilders and other populists, even though more values are shared. But in effect, almost all other parties condemn the PVV. And although the PVV is ahead in the polls, so are _GroenLinks_ (Green Party with a liberal streak) and D66 (Progressive Liberals), polar opposites of Wilders.
