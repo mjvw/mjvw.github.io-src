@@ -12,11 +12,10 @@ Summary: A blurb defining my career
 |	|	|
 | :---- | :--------- |
 |Name: | Matthijs (M.J.) van Wolferen |
-|Address: | Sabangplein 8, 9715CX |
+|Address: | Oude Kijk in 't Jatstraat 26|
 |Residence: | Groningen |
 |Date of Birth: |	November 4, 1983 |
 |E-mail: | m.j.van.wolferen@rug.nl |
-|Mobile: | +31644342120 |
 |Blog: | https://mjvw.github.io/ |
 
 ## Publications
