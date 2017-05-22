@@ -5,7 +5,7 @@ Category: Pages
 Tags: cv, career
 Slug: career-track
 Authors: mjvw
-Summary: A blurb defining my career
+Summary: My career
 # Matthijs van Wolferen LL.M.
 
 ## Personal Details
@@ -47,6 +47,7 @@ Summary: A blurb defining my career
 ## Valorisation
 | *Date* | *Activity* | *Content* |
 |:---- | :----------- | :-------- |
+| 2017: | Blogs for IdeasOnEurope. | Part of prof. Albrecht Sonntag's blog attempt to give a better understanding of the European elections in a European context. |
 | 2015: | Young Scholars Masterclass. | Programme organised by the Pre University Academy in which I have taught advanced high school students about the legal measures taken by the EU in creating a more sustainable society.  |
 | 2014: | High School Lectures. | Lectures organised by the _Gammasteunpunt_ with the purpose to offer an introduction to potential university student in (European) Law. | 
 | 2014: | Inter-facultary Research Meeting _Google Spain_| Organised an inter-facultary meeting with 19 participants from Sciences, Arts and Law departments, as well as law firms, on the effect of 'The Right to be Forgotten'. |
