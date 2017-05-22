@@ -21,6 +21,7 @@ Summary: A blurb defining my career
 ## Publications
 | *Date* | *Title* | *Publication/issue* |
 | :----- | :------ | :------------ |
+| 2018: | "The Rule of Law and the Constitutional Dialogue in the EU" | co-authored ch. w. prof. Dimitry Kochenov, CUP |
 | 2017: | "Speaking Truth To Power - The problem of the public interest at the CJEU" | monograph, publisher to be anounced |
 | 2016: | "The limits to interpretation of _locus standi_ criteria, a theoretical framework" | Journal of Contemporary European Research (JCER) 4 |
 | 2012: | _Annotatie HvJ EU_, 25-10-2011, T-262/10 (Microban)| European Human Rights Cases (EHRC) 1 |
