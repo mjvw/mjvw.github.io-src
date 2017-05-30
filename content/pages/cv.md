@@ -26,6 +26,11 @@ Summary: My career
 | 2016: | "The limits to interpretation of _locus standi_ criteria, a theoretical framework" | Journal of Contemporary European Research (JCER) 4 |
 | 2012: | _Annotatie HvJ EU_, 25-10-2011, T-262/10 (Microban)| European Human Rights Cases (EHRC) 1 |
 
+## Prizes
+|*Date*|*Prize* |*Article* |
+| :----- | :------ | :------------ |
+|2017 |Luke Foster JCER Best Article prize |"The limits to interpretation of _locus standi_ criteria"|
+
 ## Conference Presentations
 | *Date* | *Conference* | *Title Presentation* |
 | :---- | :----------- | :------------------- |
